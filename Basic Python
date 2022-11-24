@@ -1,0 +1,11 @@
+a=3 # creo una variable llamada a que sera de tipo entero y le asigno el valor 3
+b=5 # creo una variable llamada b que sera de tipo entero y le asigno el valor 5
+print("Hola") # imprimir Hola
+print (sumar(3,5)) # llamada a metodo sumar y le asigno a 3 a la x y la 5 a la y 
+a = sumar (3,5)
+print (restar (3,5))
+a= restar (3,5);
+print (multiplicar (3,5))
+a = multiplicar (3,5);
+print (dividir (3,5))
+a = dividir (3,5);
